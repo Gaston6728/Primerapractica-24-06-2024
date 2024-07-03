@@ -1,0 +1,43 @@
+
+body{
+    background-image: url('./imagen.webp');
+    backdrop-filter: brightness(0.5);
+}
+
+
+.heading{
+    color: rgb(75, 226, 16);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: aliceblue;
+    
+}
+h1{
+    font-size: 50px;
+}
+.heading-h2{
+    font-size: 30px;
+}
+#h2-ID{
+    color: red;
+}
+p{
+    background-color: blanchedalmond;
+}
+span{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.span-rojo{
+    color: red;
+}
+
+#span-rojo{
+    color: violet
+
+}
+.img-sales{
+    width: 400px;
+    border: 2px solid black;
+}
